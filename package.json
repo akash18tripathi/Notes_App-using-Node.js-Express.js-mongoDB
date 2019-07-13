@@ -1,0 +1,22 @@
+{
+  "name": "notes_app",
+  "version": "1.0.0",
+  "description": "A simple web app which takes data, stores it in mongoDB database and fetches it to show on web page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash18tripathi/Notes_App-using-Node.git"
+  },
+  "author": "Aakash Tripathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash18tripathi/Notes_App-using-Node/issues"
+  },
+  "homepage": "https://github.com/akash18tripathi/Notes_App-using-Node#readme",
+  "dependencies":{
+    
+  }
+}
